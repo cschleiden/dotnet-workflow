@@ -22,3 +22,5 @@ This generates the workflow with all the defaults:
 To specify the name of your YAML file and/or the SDK version you want to use specify more options:
 
 `dotnet new workflow --sdk-version 3.1.403 -n build -b your_branch_name`
+
+test
